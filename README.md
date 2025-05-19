@@ -43,9 +43,9 @@ Create `.env` files in **both backend & frontend**:
 ```env
 PORT=5000
 CLIENT_URL=http://localhost:5173
-
 GOOGLE_CLIENT_ID=your-google-client-id
 GOOGLE_CLIENT_SECRET=your-google-client-secret
+SESSION_SECRET=session_seceret_create_one
 
 
 
